@@ -1,14 +1,14 @@
 let handler = async m => m.reply(`
 ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
-≡★☆🅟🅡🅘🅝🅒🅔 🅣🅗🅔 🅞🅦🅝🅔🅡☆★≡
+≡★☆ⓂⓄⓈⒽⒾⓇⒺⓕ 🅣🅗🅔 ⓄⓌⓃⒺⓇ☆★≡
 
-★𝚂𝚄𝙿𝙿𝙾®𝚃 𝙶𝚁𝙾𝚄𝙿 𝙻𝙸𝙽𝙺★
+★𝚂𝚄𝙿𝙿𝙾®𝚃 𝙻𝙸𝙽𝙺★
 ─────────────
-▢ ★☆☆🛡️𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋🛡️☆☆★
+▢ ★☆☆🛡️𝗢𝗦𝗛𝗜𝗥𝗘𝗙ᴍ-𝗕𝗢𝗧🛡️☆☆★
 
-🅛🅘🅝🅚: https://chat.whatsapp.com/Jo5bmHMAlZpEIp75mKbwxP
+🅛🅘🅝🅚: https://wa.me/201022647804
 
-🅛🅘🅝🅚: https://whatsapp.com/channel/0029VaKNbWkKbYMLb61S1v11
+🅛🅘🅝🅚: https://www.facebook.com/profile.php?id=100009554691220&mibextid=ZbWKwL
 
 ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★
 ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
