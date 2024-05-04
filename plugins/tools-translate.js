@@ -7,10 +7,11 @@ let handler = async (m, { args, usedPrefix, command }) => {
 📌 *Example:*
 
 *${usedPrefix + command}* <id> [text]
-*${usedPrefix + command}* en Hello World
+يعني لو عايز تحول من اللغه الانجليزيه للعربيه استخدم الامر هذا 
+*${usedPrefix + command}* ar Hello World
 
 ≡ *List of supported languages:* 
-
+ولو عايز تغير للغات تانيه دا لينك هيعرفك كل اكواد اللغات
 https://cloud.google.com/translate/docs/languages
 `.trim()
 
