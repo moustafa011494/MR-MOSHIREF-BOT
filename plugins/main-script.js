@@ -3,7 +3,7 @@ import { join } from 'path';
 import axios from 'axios'; 
 
 let handler = async function (m, { conn, __dirname }) {
-  const githubRepoURL = 'https://github.com/PRINCE-GDS/THE-PRINCE-BOT';
+  const githubRepoURL = 'https://github.com/moustafa011494/MR-MOSHIREF-BOT';
 
   try {
   
@@ -16,13 +16,13 @@ let handler = async function (m, { conn, __dirname }) {
 
       // Format the repository information with emojis
       const formattedInfo = `
-╭⊱✫🛡️ᑭᖇIᑎᑕᕮ ᗷOT🛡️✫⊱╮
-│✫ - *📂Repository Name: ${repoData.name}*
-│✫ - *📃Description: ${repoData.description}*
-│✫ - *🛡️Owner: ${repoData.owner.login}*
+╭⊱✫🛡️ⓂⓄⓈⒽⒾⓇⒺⒻ ⒷⓄⓉ🛡️✫⊱╮
+│✫ - *📂Repository Name: 𝙼𝙾𝚂𝙷𝙸𝚁𝙴𝙵-𝙼𝙳*
+│✫ - *📃Description: 💦𝙼𝙾𝚂𝙷𝙸𝚁𝙴𝙵-𝙼𝙳💦 SIMPLE CLEAN SUPER FAST MULTI DEVICE BOT WITH THE BUNDLES OF THE FEATURES 💌🛡️*
+│✫ - *🛡️Owner: Moustafa Shiref *
 │✫ - *⭐Stars: ${repoData.stargazers_count}*
 │✫ - *💌Forks: ${repoData.forks_count}*
-│✫ - *🌐 URL: ${repoData.html_url}*
+│✫ - *🌐 URL: https://www.facebook.com/profile.php?id=100009554691220&mibextid=ZbWKwL*
 ╰━━━━━━━━━━━━━━━━━╯
       `.trim();
 
