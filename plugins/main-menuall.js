@@ -419,19 +419,19 @@ break;
           break;
           case 'funmenu':
           lkr = `┏━━━ʕ•𝙁𝙐𝙉 𝙈𝙀𝙉𝙐•ʔ━━━┓
-⎪⌲🔖🇵🇰 _${usedPrefix}character_
-⎪⌲🔖🇵🇰 _${usedPrefix}truth_
-⎪⌲🔖🇵🇰 _${usedPrefix}dare_
-⎪⌲🔖🇵🇰 _${usedPrefix}flirt_
-⎪⌲🔖🇵🇰 _${usedPrefix}gay_
-⎪⌲🔖🇵🇰 _${usedPrefix}shayeri_
-⎪⌲🔖🇵🇰 _${usedPrefix}ship_
-⎪⌲🔖🇵🇰 _${usedPrefix}waste_
-⎪⌲🔖🇵🇰 _${usedPrefix}simpcard_
-⎪⌲🔖🇵🇰 _${usedPrefix}hornycard_
-⎪⌲🔖🇵🇰 _${usedPrefix}ytcomment_
-⎪⌲🔖🇵🇰 _${usedPrefix}stupid_
-⎪⌲🔖🇵🇰 _${usedPrefix}lolicon_
+⎪⌲🔖🇪🇬 _${usedPrefix}character_
+⎪⌲🔖🇪🇬 _${usedPrefix}truth_
+⎪⌲🔖🇪🇬 _${usedPrefix}dare_
+⎪⌲🔖🇪🇬 _${usedPrefix}flirt_
+⎪⌲🔖🇪🇬 _${usedPrefix}gay_
+⎪⌲🔖🇪🇬 _${usedPrefix}shayeri_
+⎪⌲🔖🇪🇬 _${usedPrefix}ship_
+⎪⌲🔖🇪🇬 _${usedPrefix}waste_
+⎪⌲🔖🇪🇬 _${usedPrefix}simpcard_
+⎪⌲🔖🇪🇬 _${usedPrefix}hornycard_
+⎪⌲🔖🇪🇬 _${usedPrefix}ytcomment_
+⎪⌲🔖🇪🇬 _${usedPrefix}stupid_
+⎪⌲🔖🇪🇬 _${usedPrefix}lolicon_
 ┗━━━ʕ•💌•ʔ━━━┛`; // 
    
           break;
@@ -447,52 +447,52 @@ break;
           break;
           case 'stickermenu':
           lkr = `┏━━━ʕ•𝙎𝙏𝙄𝘾𝙆𝙀𝙍 𝙈𝙀𝙉𝙐•ʔ━━━┓
-⎪⌲🔖🇵🇰 _${usedPrefix}sticker_
-⎪⌲🔖🇵🇰 _${usedPrefix}take_
-⎪⌲🔖🇵🇰 _${usedPrefix}scircle_
-⎪⌲🔖🇵🇰 _${usedPrefix}smaker_
-⎪⌲🔖🇵🇰 _${usedPrefix}sremovebg_
-⎪⌲🔖🇵🇰 _${usedPrefix}getsticker_
-⎪⌲🔖🇵🇰 _${usedPrefix}emojimix_
-⎪⌲🔖🇵🇰 _${usedPrefix}toimg_
-⎪⌲🔖🇵🇰 _${usedPrefix}tovid_
-⎪⌲🔖🇵🇰 _${usedPrefix}ttp_
-⎪⌲🔖🇵🇰 _${usedPrefix}ttp2_
-⎪⌲🔖🇵🇰 _${usedPrefix}ttp3_
-⎪⌲🔖🇵🇰 _${usedPrefix}ttp4_
-⎪⌲🔖🇵🇰 _${usedPrefix}ttp5_
-⎪⌲🔖🇵🇰 _${usedPrefix}attp_
-⎪⌲🔖🇵🇰 _${usedPrefix}attp2_
-⎪⌲🔖🇵🇰 _${usedPrefix}attp3_
+⎪⌲🔖🇪🇬 _${usedPrefix}sticker_
+⎪⌲🔖🇪🇬 _${usedPrefix}take_
+⎪⌲🔖🇪🇬 _${usedPrefix}scircle_
+⎪⌲🔖🇪🇬 _${usedPrefix}smaker_
+⎪⌲🔖🇪🇬 _${usedPrefix}sremovebg_
+⎪⌲🔖🇪🇬 _${usedPrefix}getsticker_
+⎪⌲🔖🇪🇬 _${usedPrefix}emojimix_
+⎪⌲🔖🇪🇬 _${usedPrefix}toimg_
+⎪⌲🔖🇪🇬 _${usedPrefix}tovid_
+⎪⌲🔖🇪🇬 _${usedPrefix}ttp_
+⎪⌲🔖🇪🇬 _${usedPrefix}ttp2_
+⎪⌲🔖🇪🇬 _${usedPrefix}ttp3_
+⎪⌲🔖🇪🇬 _${usedPrefix}ttp4_
+⎪⌲🔖🇪🇬 _${usedPrefix}ttp5_
+⎪⌲🔖🇪🇬 _${usedPrefix}attp_
+⎪⌲🔖🇪🇬 _${usedPrefix}attp2_
+⎪⌲🔖🇪🇬 _${usedPrefix}attp3_
 ┗━━━ʕ•💌•ʔ━━━┛`; 
           break;
           case 'toolmenu':
           lkr = `┏━━━ʕ•𝙏𝙊𝙊𝙇𝙎 𝙈𝙀𝙉𝙐•ʔ━━━┓
-⎪⌲🔖🇵🇰 _${usedPrefix}autosticker_
-⎪⌲🔖🇵🇰 _${usedPrefix}pdf_
-⎪⌲🔖🇵🇰 _${usedPrefix}whatmusic_
-⎪⌲🔖🇵🇰 _${usedPrefix}calc_
-⎪⌲🔖🇵🇰 _${usedPrefix}google_
-⎪⌲🔖🇵🇰 _${usedPrefix}lyrics_
-⎪⌲🔖🇵🇰 _${usedPrefix}readmore_
-⎪⌲🔖🇵🇰 _${usedPrefix}ssweb_
-⎪⌲🔖🇵🇰 _${usedPrefix}tts_
-⎪⌲🔖🇵🇰 _${usedPrefix}translate_
-⎪⌲🔖🇵🇰 _${usedPrefix}tourl_
-⎪⌲🔖🇵🇰 _${usedPrefix}wikipedia_
-⎪⌲🔖🇵🇰 _${usedPrefix}nowa_
-⎪⌲🔖🇵🇰 _${usedPrefix}qrmaker_
-⎪⌲🔖🇵🇰 _${usedPrefix}readqr_
-⎪⌲🔖🇵🇰 _${usedPrefix}styletext_
-⎪⌲🔖🇵🇰 _${usedPrefix}weather_
-⎪⌲🔖🇵🇰 _${usedPrefix}siri_
-⎪⌲🔖🇵🇰 _${usedPrefix}alexa_
-⎪⌲🔖🇵🇰 _${usedPrefix}dalle_
-⎪⌲🔖🇵🇰 _${usedPrefix}wa_
-⎪⌲🔖🇵🇰 _${usedPrefix}itunes_
-⎪⌲🔖🇵🇰 _${usedPrefix}tinyurl/shorturl_
-⎪⌲🔖🇵🇰 _${usedPrefix}readvo_
-⎪⌲🔖🇵🇰 _${usedPrefix}true_
+⎪⌲🔖🇪🇬 _${usedPrefix}autosticker_
+⎪⌲🔖🇪🇬 _${usedPrefix}pdf_
+⎪⌲🔖🇪🇬 _${usedPrefix}whatmusic_
+⎪⌲🔖🇪🇬 _${usedPrefix}calc_
+⎪⌲🔖🇪🇬 _${usedPrefix}google_
+⎪⌲🔖🇪🇬 _${usedPrefix}lyrics_
+⎪⌲🔖🇪🇬 _${usedPrefix}readmore_
+⎪⌲🔖🇪🇬 _${usedPrefix}ssweb_
+⎪⌲🔖🇪🇬 _${usedPrefix}tts_
+⎪⌲🔖🇪🇬 _${usedPrefix}translate_
+⎪⌲🔖🇪🇬 _${usedPrefix}tourl_
+⎪⌲🔖🇪🇬 _${usedPrefix}wikipedia_
+⎪⌲🔖🇪🇬 _${usedPrefix}nowa_
+⎪⌲🔖🇪🇬 _${usedPrefix}qrmaker_
+⎪⌲🔖🇪🇬 _${usedPrefix}readqr_
+⎪⌲🔖🇪🇬 _${usedPrefix}styletext_
+⎪⌲🔖🇪🇬 _${usedPrefix}weather_
+⎪⌲🔖🇪🇬 _${usedPrefix}siri_
+⎪⌲🔖🇪🇬 _${usedPrefix}alexa_
+⎪⌲🔖🇪🇬 _${usedPrefix}dalle_
+⎪⌲🔖🇪🇬 _${usedPrefix}wa_
+⎪⌲🔖🇪🇬 _${usedPrefix}itunes_
+⎪⌲🔖🇪🇬 _${usedPrefix}tinyurl/shorturl_
+⎪⌲🔖🇪🇬 _${usedPrefix}readvo_
+⎪⌲🔖🇪🇬 _${usedPrefix}true_
 ┗━━━━━━━ʕ•🧬•ʔ━━━━━━┛`; // 
           break;
           case 'nsfwmenu':
