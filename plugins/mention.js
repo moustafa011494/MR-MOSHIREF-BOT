@@ -1,11 +1,11 @@
 let handler = m => m
 handler.all = async function (m, conn) {
     var vn = "https://github.com/PRINCE-GDS/THE-PRINCE-BOTraw/main/Assets/mp3/Audio5.mp3"
-    let url = "https://chat.whatsapp.com/GWJkAJSgbv27sGOMLAzMDS"
-    let murl = "https://instagram.com/prince_gds?igshid=OGQ5ZDc2ODk2ZA=="
+    let url = "https://wa.me/201022647804"
+    let murl = "https://www.facebook.com/profile.php?id=100009554691220&mibextid=ZbWKwL"
     let hash = global.princebot
-    let img = "https://i.imgur.com/8ltcrED.jpeg"
-    let num = "923042205427"
+    let img = "https://telegra.ph/file/84ee4bc22ea38173b60ef.jpg"
+    let num = "201022647804"
 
     let doc = {
         audio: {
